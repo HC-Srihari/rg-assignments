@@ -1,0 +1,1 @@
+# A class can be encapsulated by marking the variable fields of that class as private and creating a getter and setter methods to operate on that data. The getters and setters have a public visibility

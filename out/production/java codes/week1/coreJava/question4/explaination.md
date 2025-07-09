@@ -1,0 +1,1 @@
+# Singleton Pattern is a design pattern which is used to make sure that only one instance of a class is created and used throughout the application. some of the examples are the database connection code.

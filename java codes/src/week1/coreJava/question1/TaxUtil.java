@@ -1,3 +1,5 @@
+package week1.coreJava.question1;
+
 public class TaxUtil {
 
     public double calculateTax(double amount,double rate) {
